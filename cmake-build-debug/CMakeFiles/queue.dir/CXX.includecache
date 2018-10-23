@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yoru/Desktop/Estrutura de dados/queue/Queue.hpp
+
+/home/yoru/Desktop/Estrutura de dados/queue/main.cpp
+iostream
+-
+Queue.hpp
+/home/yoru/Desktop/Estrutura de dados/queue/Queue.hpp
+
